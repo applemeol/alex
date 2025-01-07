@@ -1,0 +1,10 @@
+new angular
+-----------
+control flow syntax
+@if, @for @switch
+* in standalone , you can lazy load individual components
+* or introduce feature module to lazy load group of components
+- first contentful paint times
+
+imperative-procedural-declarative-functional (subset is reactive) 
+continue lazy loading chapter 1 -enterprise

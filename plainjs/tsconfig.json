@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "ES6", // or "ES2015" or later
+        "module": "commonjs",
+        "strict": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "lib": ["ES6", "DOM"] // Include the ES6 library
+    }
+}

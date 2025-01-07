@@ -1,0 +1,4 @@
+dynaform2- controls are individual components
+dynaform3- the best. please refactor to use individual controls.
+
+weather-app <-- implementation of line chart using chart.js
